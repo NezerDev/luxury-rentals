@@ -6,6 +6,10 @@
     --light-gray: #f4f4f4;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 * {
     margin: 0;
     padding: 0;
